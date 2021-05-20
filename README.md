@@ -5,7 +5,7 @@ Built with:
   - node.js
   - EJS 
   - express
-  
+  - mongoose
 
   Tested/Used:
   - Salting
